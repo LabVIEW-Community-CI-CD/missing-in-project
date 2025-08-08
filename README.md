@@ -143,4 +143,4 @@ type .github/actions/missing-in-project/missing_files.txt
 ---
 
 ## License
-This directory inherits the root repository’s license (MIT, unless otherwise noted).
+This directory inherits the root repository’s license (BSD 3-Clause License, unless otherwise noted).
